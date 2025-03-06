@@ -17,6 +17,19 @@ main {
   width: 350px;
 }
 
+.flex {
+  display: flex;
+}
+
+.center {
+  align-items: center;
+  justify-content: center;
+}
+
+.gap-4 {
+  gap: 4px;
+}
+
 h1 {
   color: #fff;
   font-size: 100px;
